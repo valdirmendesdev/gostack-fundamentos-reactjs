@@ -41,8 +41,8 @@ Para esta aplicação funcionar é necessário baixar e rodar a aplicação cont
 ### Layout da aplicação
 
 <p align="center">
-<img alt="Tela de dashboard" src=".github/dashboard.png" width="400">
-<img alt="Tela de importação" src=".github/importacao.png" width="400">
+<img alt="Tela de dashboard" src=".github/dashboard.png">
+<img alt="Tela de importação" src=".github/importacao.png">
 </p>
 
 ### Funcionalidades da aplicação
